@@ -2,7 +2,7 @@
 
 Here I provide code for: **Handle Grandparents with care in December: An assessment of older-adult mortality and potential implications for grandchildren (students!)**
 
-Santos-Lozada, Alexis R. (Forthcoming). Handle Grandparents with care in December: An assessment of older-adult mortality and potential implications for grandchildren (students)
+Santos-Lozada, Alexis R. (*Forthcoming*). Handle Grandparents with care in December: An assessment of older-adult mortality and potential implications for grandchildren (students)
 
 # Abstract
 
