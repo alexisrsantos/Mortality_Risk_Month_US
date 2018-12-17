@@ -1,6 +1,13 @@
 # Introduction
 
-Here I provide code for: **Handle Grandparents with care in December: An assessment of older-adult mortality and potential implications for grandchildren (students!)**
+Here I provide code for: 
+
+**Handle Grandparents with care in December: An assessment of older-adult mortality and potential implications for grandchildren (students!)**
+
+**It's beginning to sound a lot like Christmas: Dead Grandparents eveywhere"
+
+
+Depending on what title I use ... 
 
 Santos-Lozada, Alexis R. (*Forthcoming*). Handle Grandparents with care in December: An assessment of older-adult mortality and potential implications for grandchildren (students)
 
